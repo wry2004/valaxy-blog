@@ -1,20 +1,18 @@
 ---
-title: Hello, Valaxy!
-date: 2022-04-01
-updated: 2022-04-01
-categories: Valaxy 笔记
+title: Hello, 陌生人!
+date: 2024-09-09
+updated: 2022-09-09
+categories: 计算机记录
 tags:
-  - valaxy
-  - 笔记
+  - 计算机
+  - 代码
 top: 1
 ---
 
-## Valaxy
+## 关于本站
 
-Next Generation Static Blog Framework.
+还在不断发展与探索，期待你的支持！
 
-Write your first post!
+## 功能
 
-## Usage
-
-Modify `valaxy.config.ts` to custom your blog.
+正在不断创造与添加新功能...
