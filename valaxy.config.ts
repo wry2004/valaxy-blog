@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: 'RY的小站',
       cloud: {
         enable: true,
       },
@@ -25,13 +25,13 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     pages: [
       {
-        name: '我的小伙伴们',
+        name: '我的伙伴们',
         url: '/links/',
         icon: 'i-ri-genderless-line',
         color: 'dodgerblue',
       },
       {
-        name: '喜欢的女孩子',
+        name: 'Girl...',
         url: '/girls/',
         icon: 'i-ri-women-line',
         color: 'hotpink',

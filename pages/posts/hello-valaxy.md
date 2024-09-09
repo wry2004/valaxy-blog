@@ -1,11 +1,12 @@
 ---
 title: Hello, 陌生人!
 date: 2024-09-09
-updated: 2022-09-09
-categories: 计算机记录
+updated: 2024-09-09
+categories: 学习与生活体会
 tags:
   - 计算机
-  - 代码
+  - 生活
+  - 体会
 top: 1
 ---
 

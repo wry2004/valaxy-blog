@@ -5,7 +5,7 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: 'Valaxy Theme Yun',
   author: {
-    name: '云游君',
+    name: 'RY',
   },
   description: 'Valaxy Theme Yun Preview.',
   social: [
@@ -95,7 +95,7 @@ export default defineSiteConfig({
 
   sponsor: {
     enable: true,
-    title: '我很可爱，请给我钱！',
+    title: '我很可爱，请给我钱！（来自模板作者）',
     methods: [
       {
         name: '支付宝',
