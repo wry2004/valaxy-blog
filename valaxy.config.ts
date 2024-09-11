@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '交 小 门',
+      title: '交  小 门',
       cloud: {
         enable: true,
       },
