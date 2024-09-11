@@ -16,10 +16,10 @@ export default defineSiteConfig({
       color: 'orange',
     },
     {
-      name: 'QQ 群 1050458482',
-      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
-      icon: 'i-ri-qq-line',
-      color: '#12B7F5',
+      //name: 'QQ 群 1050458482',
+      //link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
+      //icon: 'i-ri-qq-line',
+      //color: '#12B7F5',
     },
     {
       name: 'GitHub',
