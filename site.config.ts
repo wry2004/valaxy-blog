@@ -15,16 +15,12 @@ export default defineSiteConfig({
       icon: 'i-ri-rss-line',
       color: 'orange',
     },
-<<<<<<< HEAD
     //{
-=======
-    {
->>>>>>> 0d861fe72986777b869ef773ff5297d045c4817e
+    //{
       //name: 'QQ 群 1050458482',
       //link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
       //icon: 'i-ri-qq-line',
       //color: '#12B7F5',
-<<<<<<< HEAD
     //},
     //{
       //name: 'GitHub',
@@ -32,15 +28,7 @@ export default defineSiteConfig({
       //icon: 'i-ri-github-line',
       //color: '#6e5494',
     //},
-=======
-    },
-    {
-      name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
-      icon: 'i-ri-github-line',
-      color: '#6e5494',
-    },
->>>>>>> 0d861fe72986777b869ef773ff5297d045c4817e
+    //},
     {
       name: '微博',
       link: 'https://weibo.com/jizhideyunyoujun',
