@@ -13,7 +13,7 @@ top: 1
 ## 关于本站
 
 这里聚集了下交大学最优质的大学生，他们风格各异，本领奇特，欢迎选购！
-[![欢迎](https://github.com/wry2004/valaxy-blog/blob/6c2a86c4ff1c420cb1d538530c48ee33d18096e0/public/%E5%9B%BE%E7%89%871.jpg)](https://github.com)
+[![欢迎](public/图片1.jpg)](https://github.com/wry2004/valaxy-blog/blob/0b99b177483437ff3e4c7b401d1ac7a3c974fa42/public/%E5%9B%BE%E7%89%871.jpg)
 
 ## 服务说明
 
