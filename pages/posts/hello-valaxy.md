@@ -14,7 +14,7 @@ top: 1
 
 这里聚集了下交大学最优质的大学生，他们风格各异，本领奇特，欢迎选购！
 [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
-[![Welcome](https://github.com/wry2004/valaxy-blog/blob/93b207c3f403c45ddfffef8dbab648200ea1bd60/public/%E5%9B%BE%E7%89%871.jpg)](https://github.com/wry2004/valaxy-blog/blob/0b99b177483437ff3e4c7b401d1ac7a3c974fa42/public/%E5%9B%BE%E7%89%871.jpg)
+[![Welcome](https://github.com/wry2004/valaxy-blog/raw/main/public/pwa-192x192.png)](https://github.com/wry2004/valaxy-blog/blob/main/public/%E5%9B%BE%E7%89%871.jpg)
 
 ## 服务说明
 
