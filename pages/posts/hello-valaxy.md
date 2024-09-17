@@ -20,7 +20,7 @@ top: 1
 
 ## 具体内容
 
-1.壹号男“佳”宾<br>
+### 1.壹号男“佳”宾
 不得不承认，在这片贫瘠且可悲的土地上能找到这样一位优质郭楠也是奇迹了。<br>
 他能歌善舞，琴棋书画样样精通，coding能力更是超人一般，使多个ACM竞赛队伍和科研专家组争得头破血流只为他的一个回眸。<br>
 但是，同时作为西交第一深情，为了cjj，为了家庭他曾放弃一切。。。     (♥cjj♥cjj♥)<br>
@@ -29,8 +29,7 @@ top: 1
 可以领养，爱吃鸡骨头！
 <br>
 [![Welcome Fail!](https://github.com/wry2004/valaxy-blog/raw/main/public/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240917233329.jpg?raw=true)](https://www.void2024.top/)
-<div style="text-align: center;">
-点击图片查看更多信息!<div>                                            
+<center>点击图片查看更多信息!</center>                                            
 <br>
 
 2.
